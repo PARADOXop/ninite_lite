@@ -1,5 +1,5 @@
 # ninite_lite (Ninite-like Installer)
-## This program allows you to install multiple software applications at once using their respective .exe files.
+#### This program allows you to install multiple software applications at once using their respective .exe files.
 
 Instructions:
 1. Prepare the .exe Files:
@@ -14,6 +14,6 @@ Instructions:
     - code: install.exe 'path_to_folder_with_exe_files'
     For example: code: install.exe ./downloads
 
-## Example Usage:
-## This setup allows for batch installation of software, similar to how Ninite simplifies the process.
-## Note: Ensure the directory paths provided are correct and that you have administrative privileges when running the command prompt to avoid any installation issues.
+#### Example Usage:
+#### This setup allows for batch installation of software, similar to how Ninite simplifies the process.
+#### Note: Ensure the directory paths provided are correct and that you have administrative privileges when running the command prompt to avoid any installation issues.
